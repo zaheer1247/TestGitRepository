@@ -10,7 +10,7 @@ package hADF;
 	public class TestApplitoolsWebsite {
 
 	    public static void main(String[] args) throws URISyntaxException, InterruptedException {
-
+ 
 	        WebDriver driver = new FirefoxDriver();
 
 	        Eyes eyes = new Eyes();
@@ -47,5 +47,5 @@ package hADF;
 	    }
 	    
 	 
-
+//nhiugy
 }
